@@ -1,0 +1,78 @@
+.navbar{
+    width: 1440px;
+    height: 94px;
+    background-color: rgba(255, 247, 226, 1);
+}
+.content{
+    width: Hug(1232px);
+    height: Hug(56px);
+    position: absolute;
+    top:23px;
+    left:104px;
+    gap:266px;
+}
+.inner-content{
+width: Hug(669px);
+height: Hug(49px);
+gap:80px;
+}
+.inner-content2{
+    width: Hug(330px);
+    height: Hug(28px);
+    gap: 40px;
+}
+.buttons{
+    width: Hug(297px);
+    height: Hug(56px);
+    gap:16px
+}
+.login{
+    width: fixed(118px);
+    height: fixed(56px);
+    border-radius: 11px;
+    border:2px rgba(58, 100, 59, 1) solid;
+    padding-top: 11px;
+    padding-right: 37px;
+    padding-bottom: 16px;
+    padding-left: 37px;
+    gap:10px;
+    background-color: rgba(255, 247, 226, 1);
+}
+.signup{
+    width: Hug(163px);
+    height: fixed(56px);
+    border-radius: 11px;
+    padding-top: 16px;
+    padding-right: 39px;
+    padding-bottom: 20px;
+    padding-left: 39px;
+    gap: 10px;
+    background-color: rgba(58, 100, 59, 1);
+}
+.home{
+    width: 53px;
+    height: 28px;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 28px;
+    font-family: DINPro;
+    color: rgba(71, 71, 71, 1);
+}
+.find{
+    width: 116px;
+    height: 28px;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 28px;
+    font-family: DINpro;
+    color: rgba(58, 100, 59, 1);
+}
+.about{
+    width: 81px;
+    height: 28px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    color: rgba(71, 71, 71, 1);
+    font-family: DINPro;
+}

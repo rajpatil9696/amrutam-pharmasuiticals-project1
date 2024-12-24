@@ -1,0 +1,24 @@
+.price{
+    color: rgba(58, 100, 59, 1);
+}
+.video{
+    background-color: rgba(58, 100, 59, 0.52);
+}
+.video-text{
+    color: rgba(58, 100, 59, 1);
+}
+.slot{
+    background-color: rgba(242, 251, 242, 1);
+}
+.slot-text{
+    color: rgba(58, 100, 59, 1);
+}
+.slot-text2{
+    color: rgba(129, 129, 129, 1);
+}
+.slottext2{
+    color: rgba(213, 81, 46, 1);
+}
+.slottext3{
+    color: rgba(241, 185, 58, 1);
+}

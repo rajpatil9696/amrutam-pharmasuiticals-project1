@@ -1,0 +1,11 @@
+.info{
+    position: absolute;
+    top:545px;
+    left: 110px;
+}
+.top{
+    background-color: rgba(251, 252, 251, 1);
+}
+#button{
+    background-color: rgba(46, 55, 164, 0.04);
+}
